@@ -16,7 +16,7 @@ const Banner = () => {
                 <SubHeading className="font-pops text-lg font-medium w-[520px]">
                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
                 </SubHeading>
-                <div className='mt-5'>
+                <div className='mt-10'>
                 <a className="bg-primary py-4 px-9 rounded-lg border border-solid border-primary text-white font-pops font-normal text-sm hover:bg-[#2C2A4E]   hover:transition  ease-in-out duration-300 cursor-pointer">Get Started --</a>
                 </div>
                 <div className='mt-12'>
