@@ -1,4 +1,3 @@
-
 import ActiveUsers from "./components/ActiveUsers";
 import Banner from "./components/Banner";
 import CreativePeople from "./components/CreativePeople";
@@ -10,13 +9,13 @@ import UpdateForm from "./components/UpdateForm";
 function App() {
   return (
     <>
-      <Navbar/>
-      <Banner/>
-      <NewBooks/>
-      <ActiveUsers/>
-      <HappyUsers/>
-      <UpdateForm/>
-      <CreativePeople/>
+      <Navbar />
+      <Banner />
+      <NewBooks />
+      <ActiveUsers />
+      <HappyUsers />
+      <UpdateForm />
+      <CreativePeople />
     </>
   );
 }
